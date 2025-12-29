@@ -1,7 +1,7 @@
 # Olá!
 Um pouco sobre mim:
 
-🎓 Cursando Economia
+🎓 Cursando Economia - UNIFESP
 
 📈 Explorando Análise de Dados
 
